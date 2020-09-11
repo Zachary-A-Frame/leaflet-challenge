@@ -1,3 +1,8 @@
+Completed Example:
+
+![Image of Completed Challenge](https://gyazo.com/7243ac3b39a2d2e0de364cf117c1cd12)
+
+
 # Leaflet Homework - Visualizing Data with Leaflet
 
 ## Background
