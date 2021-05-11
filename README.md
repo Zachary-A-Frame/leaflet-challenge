@@ -1,10 +1,8 @@
-Completed Example:
+Completed Example Screenshot: 
 
 ![Image of Completed Challenge](https://i.gyazo.com/7243ac3b39a2d2e0de364cf117c1cd12.png)
 
 In order to use utility yourself, clone repository and run a server, for example with Live-Server on node or with Web Server for Chrome.
-
-Original instructions lay below:
 
 # Visualizing Data with Leaflet
 
